@@ -1,1 +1,1 @@
-# sentinelmail
+# SentinelMail
