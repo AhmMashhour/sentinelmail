@@ -1,7 +1,3 @@
-#!/bin/bash
-
-# Create README.md with full content
-cat << 'EOF' > README.md
 # 📧 SentinelMail
 
 **SentinelMail** is an open-source email threat detection and analysis tool designed for cybersecurity professionals, researchers, and organizations of all sizes.
@@ -38,7 +34,7 @@ It detects, classifies, and scores malicious, phishing, spoofing, or suspicious 
 
 ## 📁 Project Structure
 
-\`\`\`bash
+```bash
 sentinelmail/
 ├── cli/           # Command-line interface
 ├── core/          # Parser, analyzer, and NLP modules
@@ -50,57 +46,3 @@ sentinelmail/
 ├── database/      # SQLite schema and models
 ├── docs/          # Documentation and roadmap
 ├── tests/         # Unit and integration tests
-\`\`\`
-
----
-
-## ⚙️ Installation
-
-> ⚠️ **Note:** Installation is currently under development. Scripts will be available after Phase 1.
-
-For now, you can clone the repository:
-
-\`\`\`bash
-git clone https://github.com/AhmMashhour/sentinelmail.git
-cd sentinelmail
-\`\`\`
-
-Setup instructions and automated install scripts are coming soon.
-
----
-
-## 📦 Run the CLI
-
-> ⚠️ CLI functionality is currently in development. Basic usage will be released in the next phase.
-
-Expected usage example:
-
-\`\`\`bash
-python cli/mailsentinel.py --file path/to/email.eml
-\`\`\`
-
----
-
-## 📌 Roadmap
-
-Development is organized into clean phases. You can follow our [docs/roadmap.md](docs/roadmap.md) for detailed progress and contributions.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.  
-Free to use, modify, and distribute with credit.
-
----
-
-## 🤝 Contributors
-
-Lead: [@AhmMashhour](https://github.com/AhmMashhour)  
-
-
-We welcome contributors and collaborators at all levels.
-
-EOF
-
-echo "✅ README.md created successfully."
