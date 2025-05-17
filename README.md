@@ -86,7 +86,7 @@ Development is organized into clean phases. You can follow our [docs/roadmap.md]
 ## 📜 License
 
 This project is licensed under the **MIT License**.  
-Free to use, modify, and distribute with credit.
+Free to use, modify, and distribute with credit
 
 ---
 
