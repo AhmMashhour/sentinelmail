@@ -94,4 +94,4 @@ Free to use, modify, and distribute with credit
 
 Lead: [@AhmMashhour](https://github.com/AhmMashhour)  
 
-We welcome contributors and collaborators at all levels
+We welcome contributors and collaborators at all levels.
