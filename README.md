@@ -2,7 +2,7 @@
 
 **SentinelMail** is an open-source email threat detection and analysis tool designed for cybersecurity professionals, researchers, and organizations of all sizes.
 
-It detects, classifies, and scores malicious, phishing, spoofing, or suspicious emails using AI models locally — with full offline support and no dependency on commercial APIs.
+It detects, classifies, and scores malicious, phishing, spoofing, or suspicious emails using AI models locally — with full offline support and no dependency on commercial APIs
 
 ---
 
